@@ -1,164 +1,231 @@
- <!-- Premium GitHub Profile README for HTECH DIGITAL CONCEPT -->
+<!-- GitHub Profile README — Ademola Habeeb | Full Stack WordPress & AI Developer -->
+<!-- Profile repo must be named exactly: Htechdigitalconcept/Htechdigitalconcept -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F44&height=220&section=header&text=ADEMOLA%20HABEEB&fontSize=48&fontColor=00B4D8&fontAlignY=38&desc=Web%20Developer%20%7C%20Digital%20Solutions%20Specialist&descAlignY=58&descSize=17" width="100%" alt="Ademola Habeeb profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=260&section=header&text=ADEMOLA%20HABEEB&fontSize=58&fontColor=00F5FF&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20WordPress%20Developer%20%C3%97%20AI%20Builder&descAlignY=62&descSize=20&descColor=C9D1D9" width="100%" alt="Ademola Habeeb banner" />
 
-# Hi, I'm Ademola Habeeb
+<a href="https://htechdc.vercel.app/">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=760&height=50&lines=%3E+Building+websites+that+sell+%F0%9F%9B%92;%3E+Shipping+AI+chatbots+%26+Telegram+bots+%F0%9F%A4%96;%3E+WordPress+%2B+WooCommerce+%2B+custom+code+%E2%9A%A1;%3E+Turning+ideas+into+working+products+%F0%9F%9A%80" alt="Typing animation" />
+</a>
 
-### Web Developer • Ecommerce Specialist • Digital Solutions Builder
+<br/>
 
-I build modern websites, ecommerce experiences, and business systems that help businesses establish their digital presence, improve operations, and grow online.
+<img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20PROJECTS-00F5FF?style=for-the-badge&labelColor=0D1117" alt="Open for projects" />
+<img src="https://img.shields.io/badge/BASED%20IN-LAGOS%2C%20NIGERIA-7B2FF7?style=for-the-badge&labelColor=0D1117" alt="Lagos, Nigeria" />
+<img src="https://img.shields.io/badge/WORKING-REMOTELY%20WORLDWIDE-00F5FF?style=for-the-badge&labelColor=0D1117" alt="Remote worldwide" />
 
-I combine web development, design, and business technology to turn ideas into practical digital solutions.
+<br/><br/>
 
-**[🌐 Portfolio](https://htechdigitalconcept.site/) · [💼 LinkedIn](https://www.linkedin.com/in/ademola-habeeb/) · [🎨 Behance](https://www.behance.net/hablad19)**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Building+Digital+Experiences+That+Convert;WordPress+%7C+Shopify+%7C+Odoo+ERP;Websites+%7C+Ecommerce+%7C+Business+Automation;Design.+Strategy.+Growth." alt="Animated introduction" />
+<a href="https://htechdc.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F5FF" alt="Portfolio" /></a>
+<a href="https://www.upwork.com/freelancers/~01b7d7e1d5bc855117"><img src="https://img.shields.io/badge/Hire%20me%20on%20Upwork-0D1117?style=for-the-badge&logo=upwork&logoColor=14A800" alt="Upwork" /></a>
+<a href="https://www.linkedin.com/in/ademolahabeeb/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://t.me/htechdc"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a>
+<a href="https://twitter.com/hablad19"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## `01` — About Me
+## ⚡ `whoami`
 
-I'm a web developer and digital solutions specialist passionate about creating useful, visually engaging, and business-focused digital experiences.
+```bash
+$ whoami
+> Ademola Habeeb, founder of HTECH Digital Concept (HTDC)
 
-Through **HTECH DIGITAL CONCEPT**, I work across website development, ecommerce, UI/UX design, branding, and business technology implementation.
+$ cat skills.txt
+> Full stack WordPress development (themes, plugins, WooCommerce)
+> AI-powered apps, chatbots and Telegram bots
+> Shopify and Odoo development (stores, ERP, CRM)
+> Custom web apps with JavaScript, React and Python
+> Business-focused builds: stores, booking, dashboards, automation
 
-My background in electronics and embedded systems also gives me an appreciation for how technology works beyond the screen.
+$ cat mission.txt
+> Ship fast, build clean, solve the actual business problem.
+```
 
-- **Web Development:** Building responsive, user-friendly websites.
-- **Ecommerce:** Creating and improving online stores with WordPress, WooCommerce, Shopify, and Odoo.
-- **ERP & Business Systems:** Configuring Odoo websites, ecommerce, CRM, and business workflows.
-- **UI/UX & Design:** Turning ideas into clear, engaging digital experiences.
-- **Digital Solutions:** Connecting websites, marketing funnels, and business processes to support growth.
+I help businesses go from idea to a live, working product: fast WordPress, WooCommerce and Shopify stores, Odoo systems, custom plugins and themes, and AI features such as chatbots that answer customers, qualify leads and automate repetitive work.
 
-**My approach:** Understand the business problem, build the right solution, and make the experience work for the people using it.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## `02` — What I Build
+## 🧠 What I Build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web Development
+### 🔌 WordPress & WooCommerce
+Custom themes, plugins, Elementor builds, high-converting online stores, payment and shipping integrations, speed and security optimization.
 
-Responsive business websites, landing pages, website redesigns, and custom frontend experiences.
-
-**Technologies:** HTML, CSS, JavaScript, React, WordPress
+`PHP` `WordPress` `WooCommerce` `Elementor` `REST API`
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 Ecommerce Solutions
+### 🤖 AI Chatbots & Telegram Bots
+Website chat assistants, Telegram bots for support, sales and notifications, and LLM-powered workflows connected to your business data.
 
-Online stores designed around product discovery, customer experience, and easier store management.
-
-**Platforms:** WooCommerce, Shopify, Odoo Ecommerce
+`Python` `Telegram Bot API` `OpenAI / Claude APIs` `Webhooks`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ ERP & Business Automation
+### 🌐 Full Stack Web Apps
+Dashboards, client portals, booking and attendance systems, and internal tools with clean frontends and solid backends.
 
-Business system configuration, ecommerce workflows, CRM setup, and process improvements.
-
-**Focus:** Odoo ERP, CRM, integrations, workflow optimization
+`JavaScript` `React` `Node.js` `MySQL`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 UI/UX & Digital Design
+### 🏪 Shopify & Odoo
+Shopify store setup and customization, Odoo website, ecommerce and CRM configuration, and ERP workflows that fit how your business runs.
 
-Website interfaces, visual identity, graphics, marketing assets, and digital experiences.
+`Shopify` `Liquid` `Odoo` `ERP` `CRM`
 
-**Tools:** Figma, Canva, Photoshop, CorelDRAW
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ⚙️ Automation & Integrations
+Connecting forms, CRMs, payment gateways, Notion, spreadsheets and messaging apps so repetitive work runs itself.
+
+`APIs` `Webhooks` `Cron jobs` `Zapier / n8n`
 
 </td>
 </tr>
 </table>
 
-## `03` — Tech Stack & Tools
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,cs" alt="HTML, CSS, JavaScript, React, Python, C++, and C Sharp" />
-</p>
-
-### Platforms & Business Technology
-
-<p>
-<a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" /></a>
-<a href="https://woocommerce.com/"><img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" /></a>
-<a href="https://www.shopify.com/"><img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /></a>
-<a href="https://www.odoo.com/"><img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo ERP" /></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-</p>
-
-### Design & Creative Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender" alt="Figma, Photoshop, Illustrator, and Blender" />
-<a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
-</p>
-
-### Development Environment
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" alt="Git, GitHub, Visual Studio Code, and Arduino" />
-</p>
-
-## `04` — Featured Work
-
-I work on digital projects spanning ecommerce, business websites, ERP implementations, and modern web experiences.
-
-**Explore my portfolio:** [htechdigitalconcept.site](https://htechdigitalconcept.site/)
-
-Some areas of my work include:
-
-- **Business Websites:** Professional websites built around business goals and customer experience.
-- **Ecommerce Development:** Online stores, product catalogs, store configuration, and platform migration.
-- **Odoo Solutions:** Website and ecommerce setup, CRM configuration, and business workflow improvements.
-- **Website Recreation:** Translating modern web designs into practical WordPress and Elementor implementations.
-
-Explore my public repositories below to see my code, experiments, and development projects.
-
-## `05` — GitHub Analytics
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=htech&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics" />
+**Languages**
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htech&layout=compact&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9" alt="Most-used programming languages" />
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,html,css&theme=dark" alt="Languages" />
 
-<img src="https://streak-stats.demolab.com?user=htech&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+**Frameworks & Platforms**
+
+<img src="https://skillicons.dev/icons?i=wordpress,react,nodejs,tailwind&theme=dark" alt="Frameworks" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
+<img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots" />
+
+**AI & Automation**
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Vibe_Coding-00F5FF?style=for-the-badge&logo=githubcopilot&logoColor=black" alt="Vibe coding" />
+
+**Data & Tooling**
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,cloudflare&theme=dark" alt="Tooling" />
 
 </div>
 
-*GitHub statistics are generated dynamically and may not be available if a third-party service is temporarily down.*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## `06` — Let's Connect
+## 🚀 Featured Work
 
-I'm interested in collaborating on meaningful projects involving web development, ecommerce, business systems, and digital product experiences.
+<details open>
+<summary><b>🛒 Business websites & ecommerce stores</b></summary>
+<br/>
 
-Whether you're building a new website, improving an existing store, implementing Odoo, or exploring a digital product idea, let's connect.
+Fast, conversion-focused sites for real businesses on WordPress/WooCommerce and Shopify: product catalogs, checkout flows, payment integrations and migrations from platforms like GoDaddy Website Builder.
 
-<p align="center">
-<a href="https://htechdigitalconcept.site/"><img src="https://img.shields.io/badge/Portfolio-0A1F44?style=for-the-badge&logo=googlechrome&logoColor=00B4D8" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/ademola-habeeb/"><img src="https://img.shields.io/badge/LinkedIn-0A1F44?style=for-the-badge&logo=linkedin&logoColor=00B4D8" alt="LinkedIn" /></a>
-<a href="https://twitter.com/hablad19"><img src="https://img.shields.io/badge/Twitter-0A1F44?style=for-the-badge&logo=x&logoColor=00B4D8" alt="Twitter" /></a>
-<a href="https://www.behance.net/hablad19"><img src="https://img.shields.io/badge/Behance-0A1F44?style=for-the-badge&logo=behance&logoColor=00B4D8" alt="Behance" /></a>
-<a href="https://dribbble.com/hablad"><img src="https://img.shields.io/badge/Dribbble-0A1F44?style=for-the-badge&logo=dribbble&logoColor=00B4D8" alt="Dribbble" /></a>
-</p>
+👉 See live projects: **[htechdc.vercel.app](https://htechdc.vercel.app/)**
+
+</details>
+
+<details>
+<summary><b>🤖 AI chatbots & Telegram bots</b></summary>
+<br/>
+
+Conversational assistants for customer support, lead capture and internal automation, on websites and inside Telegram.
+
+</details>
+
+<details>
+<summary><b>🏪 Odoo ERP & business systems</b></summary>
+<br/>
+
+Odoo website, ecommerce and CRM setup, plus workflow configuration so sales, inventory and customer data live in one place.
+
+</details>
+
+<details>
+<summary><b>📊 Custom dashboards & systems</b></summary>
+<br/>
+
+Attendance, booking and client-portal systems with a proper backend, built to run on standard WordPress hosting.
+
+</details>
+
+<details>
+<summary><b>🔌 Custom WordPress themes & plugins</b></summary>
+<br/>
+
+Purpose-built themes and plugins, including AI chat plugins, written clean and kept easy to maintain.
+
+</details>
+
+### 📌 Pinned repositories
+
+<!-- Replace Htechdigitalconcept and REPO_NAME. Copy this line once per pinned repo. -->
+<a href="https://github.com/Htechdigitalconcept/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Htechdigitalconcept&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B2FF7" alt="Pinned repo" /></a>
+<a href="https://github.com/Htechdigitalconcept/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Htechdigitalconcept&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B2FF7" alt="Pinned repo" /></a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 📈 Dev Stats
 
 <div align="center">
 
-### Building better digital experiences, one project at a time.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Htechdigitalconcept&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B2FF7&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htechdigitalconcept&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Top languages" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F44&height=100&section=footer" width="100%" alt="Decorative navy footer" />
+<img src="https://streak-stats.demolab.com?user=Htechdigitalconcept&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=7B2FF7&currStreakLabel=00F5FF" alt="Contribution streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Htechdigitalconcept&theme=tokyo-night&bg_color=0D1117&color=00F5FF&line=7B2FF7&point=FFFFFF&area=true&hide_border=true" alt="Activity graph" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Generated by the GitHub Action in .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Htechdigitalconcept/Htechdigitalconcept/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Htechdigitalconcept/Htechdigitalconcept/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Htechdigitalconcept/Htechdigitalconcept/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 🤝 Let's Build Something
+
+Have a website, store, Odoo setup, AI chatbot or automation in mind? I take on a limited number of projects at a time and reply fast.
+
+<div align="center">
+
+<a href="https://www.upwork.com/freelancers/~01b7d7e1d5bc855117"><img src="https://img.shields.io/badge/HIRE_ME_ON_UPWORK-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork" /></a>
+<a href="https://htechdc.vercel.app/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="View portfolio" /></a>
+<a href="https://t.me/htechdc"><img src="https://img.shields.io/badge/CHAT_ON_TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Chat on Telegram" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Htechdigitalconcept&label=Profile+views&color=00F5FF&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
 
 </div>
